@@ -1,4 +1,4 @@
-# ProvincialSkillCompetition
+# UnityFeatures
 
 ## 📚 프로젝트 개요
 - **프로젝트명:** ProvincialSkillCompetition
